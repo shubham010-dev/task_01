@@ -11,11 +11,12 @@ A simple and elegant **Responsive Landing Page** built with HTML5 and CSS3. It a
 ```
 ├──imp
   ├──Screenshot 2025-08-04 172934.png  # My Logo
+├──README.md                           # Project documentation
 ├──Screenshot 2025-08-04 200937.png    # screenshot of page in a big screen(laptop)
 ├──Screenshot 2025-08-04 201411.png    # screenshot of page in a small screen(mobile)
 ├── index.html                         # Main HTML file
-├── style.css                          # CSS styles
-└── README.md                          # Project documentation
+└── style.css                          # CSS styles
+ 
 ```
 ---
 
