@@ -3,11 +3,16 @@
 A simple and elegant **Responsive Landing Page** built with HTML5 and CSS3. It adapts smoothly to different screen sizes using media queries and features a clean design with modern UI components.
 
 ---
+## Screenshots
+![Landing Page](https://github.com/shubham010-dev/task_01/blob/main/Screenshot%202025-08-04%20200937.png?raw=true)  # for big screens
+![Landing Page](https://github.com/shubham010-dev/task_01/blob/main/Screenshot%202025-08-04%20201411.png?raw=true)  # for small screens
 
 ## 📁 Project Structure
 ```
 ├──imp
   ├──Screenshot 2025-08-04 172934.png  # My Logo
+├──Screenshot 2025-08-04 200937.png    # screenshot of page in a big screen(laptop)
+├──Screenshot 2025-08-04 201411.png    # screenshot of page in a small screen(mobile)
 ├── index.html                         # Main HTML file
 ├── style.css                          # CSS styles
 └── README.md                          # Project documentation
