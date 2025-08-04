@@ -4,8 +4,8 @@ A simple and elegant **Responsive Landing Page** built with HTML5 and CSS3. It a
 
 ---
 ## Screenshots
-![Landing Page](https://github.com/shubham010-dev/task_01/blob/main/Screenshot%202025-08-04%20200937.png?raw=true)  # for big screens
-![Landing Page](https://github.com/shubham010-dev/task_01/blob/main/Screenshot%202025-08-04%20201411.png?raw=true)  # for small screens
+![Landing Page](https://github.com/shubham010-dev/task_01/raw/main/Screenshot%202025-08-04%20200937.png?raw=true)  
+![Landing Page](https://github.com/shubham010-dev/task_01/blob/main/Screenshot%202025-08-04%20201411.png?raw=true) 
 
 ## 📁 Project Structure
 ```
